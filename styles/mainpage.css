@@ -1,0 +1,119 @@
+﻿.row1{
+    display: inline-block;
+    padding: 9px 5px;
+}
+#resturant{
+    text-align: left;
+    font-weight: bold;
+}
+.paddingright{
+    padding-right: 0px;
+}
+.paddingleft{
+    padding-left: 0px;
+}
+.marginbottom{
+    margin-bottom: 0px;
+}
+.marginright{
+    text-align: left;
+    margin-right: 35%;
+}
+.pmenu{
+    font-family: 'Trebuchet MS';
+    font-weight: 100px;
+}
+.header{
+    color: black;
+    font-size: 45px;
+    margin-bottom: 0px;
+    font-family: 'Trebuchet MS';
+    padding: 0px 0px;
+    margin-right: 20%;
+    
+}
+.header2{
+    color: darkslategray;
+    font-family: 'Trebuchet MS';
+    margin-right: 20%;
+}
+.headerdiv{
+    vertical-align: middle;
+    width: 30%;
+    margin-bottom: 20%;
+}
+.size{
+    text-align: center;
+    margin-top: 50px;
+    height: 50px;
+}
+.middleclass{
+    text-align: center;
+    height: 40%;
+}
+.menuheader{
+    text-align: center;
+    margin: auto;
+}
+.margintop{
+    vertical-align: middle;
+}
+.mainimag{
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    margin-left: 20%;
+}
+.subimag{
+    text-align: center;
+    width: 120;
+    height: 120;
+    margin-top: 15px;
+}
+.subimagdes{
+    text-align: center;
+    margin-top: 0px;
+    font-style: italic;
+    color: black;
+    width: 150px;
+    font-family:'Trebuchet MS' ;
+}
+.resticon{
+    width: 30px;
+    height: 30px;
+    padding-right: 0px;
+}
+input[type=button] {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 6px 15px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+input[type=button]:hover{
+    opacity: 0.8;
+}
+.container{
+    background-color: #f1f1f1;
+}
+.footer{
+    font-weight: bold;
+    font-family:'Trebuchet MS' ;
+}
+.customA{
+    text-decoration: none;
+     color:black
+  }
+a:hover{
+    color: red;
+  }
+.header3{
+    margin-top: 6%;
+    text-align: center;
+}
+h3{
+    font-family:'Trebuchet MS' ; 
+}
